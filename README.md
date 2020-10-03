@@ -6,10 +6,10 @@ After using the Microsoft Common Objects in COntext (MS COCO) dataset to train y
 Project Instructions
 The project is structured as a series of Jupyter notebooks that are designed to be completed in sequential order:
 
-0_Dataset.ipynb
-1_Preliminaries.ipynb
-2_Training.ipynb
-3_Inference.ipynb
+0. Dataset.ipynb
+1. Preliminaries.ipynb
+2. Training.ipynb
+3. Inference.ipynb
 
 # Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
