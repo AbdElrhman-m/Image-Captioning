@@ -3,7 +3,7 @@ create a neural network architecture to automatically generate captions from ima
 
 After using the Microsoft Common Objects in COntext (MS COCO) dataset to train your network, you will test your network on novel images!
 
-Project Instructions
+## Project Instructions
 The project is structured as a series of Jupyter notebooks that are designed to be completed in sequential order:
 
 0. Dataset.ipynb
